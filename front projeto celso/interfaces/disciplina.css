@@ -1,0 +1,249 @@
+.cadastro-de-disciplina, .cadastro-de-disciplina * {
+    box-sizing: border-box;
+    }
+.cadastro-de-disciplina {
+   background: #ffffff;
+   width: 1440px;
+    height: 1024px;
+   
+           position: relative;
+   
+       overflow: hidden;
+   }
+
+.image-1 {
+   width: 756px;
+    height: 878px;
+   
+           position: absolute;
+    left: 0px;
+   top: 146px;
+   
+       }
+
+.rectangle-11 {
+   background: #bc6c25;
+   width: 756px;
+    height: 878px;
+   
+           position: absolute;
+    left: 0px;
+   top: 146px;
+   
+       }
+
+.rectangle-112 {
+   background: #606c38;
+   border-radius: 15px;
+   width: 488px;
+    height: 570px;
+   
+           position: absolute;
+    left: 829px;
+   top: 301px;
+   
+       box-shadow:  0px 4px 73.1px 0px rgba(0, 0, 0, 0.65);
+   }
+
+.rectangle-12 {
+   background: #606c38;
+   width: 1440px;
+    height: 146px;
+   
+           position: absolute;
+    left: 0px;
+   top: 0px;
+   
+       }
+
+.portal-acad-mico {
+   color: #fefae0;
+   text-align: left;
+   font: 400 25px 'Montserrat-Regular', sans-serif;
+   
+           position: absolute;
+    left: calc(50% - 498px);
+   top: 46px;
+   
+       width: 183px;
+    height: 55px;
+   }
+
+.sobre {
+   color: #fefae0;
+   text-align: left;
+   font: 400 25px 'Montserrat-Regular', sans-serif;
+   
+           position: absolute;
+    left: calc(50% - -421px);
+   top: 70px;
+   
+       width: 77px;
+    height: 25px;
+   }
+
+.contato {
+   color: #fefae0;
+   text-align: left;
+   font: 400 25px 'Montserrat-Regular', sans-serif;
+   
+           position: absolute;
+    left: calc(50% - -201px);
+   top: 70px;
+   
+       width: 101px;
+    height: 25px;
+   }
+
+.rectangle-6 {
+   background: #bc6c25;
+   border-radius: 5px;
+   width: 184px;
+    height: 45px;
+   
+           position: absolute;
+    left: 988px;
+   top: 775px;
+   
+       }
+
+.cadastrar {
+   color: #ffffff;
+   text-align: left;
+   font: 600 20px 'Montserrat-SemiBold', sans-serif;
+   
+           position: absolute;
+    left: calc(50% - -309px);
+   top: 786px;
+   
+       width: 101px;
+    height: 19px;
+   }
+
+.rectangle-122 {
+   background: #bc6c25;
+   border-radius: 5px;
+   width: 285px;
+    height: 20px;
+   
+           position: absolute;
+    left: 933px;
+   top: 600px;
+   
+       box-shadow: inset 3px 2px 4px 0px rgba(0, 0, 0, 0.25);
+   }
+
+.rectangle-7 {
+   background: #bc6c25;
+   border-radius: 5px;
+   width: 82px;
+    height: 20px;
+   
+           position: absolute;
+    left: 933px;
+   top: 500px;
+   
+       }
+
+.rectangle-13 {
+   background: #bc6c25;
+   border-radius: 5px;
+   width: 82px;
+    height: 20px;
+   
+           position: absolute;
+    left: 1035px;
+   top: 500px;
+   
+       }
+
+.rectangle-8 {
+   background: #bc6c25;
+   border-radius: 5px;
+   width: 285px;
+    height: 20px;
+   
+           position: absolute;
+    left: 933px;
+   top: 400px;
+   
+       box-shadow: inset 3px 2px 4px 0px rgba(0, 0, 0, 0.25);
+   }
+
+.rectangle-9 {
+   background: #bc6c25;
+   border-radius: 5px;
+   width: 184px;
+    height: 20px;
+   
+           position: absolute;
+    left: 933px;
+   top: 700px;
+   
+       }
+
+.nome {
+   color: #fefae0;
+   text-align: center;
+   font: 600 25px 'Montserrat-SemiBold', sans-serif;
+   
+           position: absolute;
+    left: calc(50% - -213px);
+   top: 345px;
+   
+       width: 82px;
+    height: 24px;
+   }
+
+.hor-rio {
+   color: #fefae0;
+   text-align: center;
+   font: 600 25px 'Montserrat-SemiBold', sans-serif;
+   
+           position: absolute;
+    left: calc(50% - -213px);
+   top: 445px;
+   
+       width: 95px;
+    height: 24px;
+   }
+
+.dias-da-semana {
+   color: #fefae0;
+   text-align: center;
+   font: 600 25px 'Montserrat-SemiBold', sans-serif;
+   
+           position: absolute;
+    left: calc(50% - -213px);
+   top: 645px;
+   
+       width: 208px;
+    height: 24px;
+   }
+
+.modalidade {
+   color: #fefae0;
+   text-align: left;
+   font: 600 25px 'Montserrat-SemiBold', sans-serif;
+   
+           position: absolute;
+    left: calc(50% - -213px);
+   top: 545px;
+   
+       width: 154px;
+    height: 24px;
+   }
+
+.polygon-4 {
+   width: 7px;
+    height: 7px;
+   
+           position: absolute;
+    left: 1097px;
+   top: 715px;
+   
+       
+           transform: translate(0.47px, -5.25px);
+   
+       overflow: visible;
+   }

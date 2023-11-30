@@ -1,0 +1,184 @@
+.tela-da-plataforma, .tela-da-plataforma * {
+    box-sizing: border-box;
+    }
+.tela-da-plataforma {
+   background: #ffffff;
+   width: 1440px;
+    height: 1024px;
+   
+           position: relative;
+   
+       overflow: hidden;
+   }
+
+.rectangle-7 {
+   background: #606c38;
+   width: 1200px;
+    height: 270px;
+   
+           position: absolute;
+    left: 120px;
+   top: 650px;
+   
+       box-shadow:  0px 4px 26.6px 0px rgba(0, 0, 0, 0.45);
+   }
+
+.rectangle-8 {
+   background: #606c38;
+   border-radius: 5px;
+   width: 183px;
+    height: 70px;
+   
+           position: absolute;
+    left: 120px;
+   top: 425px;
+   
+       box-shadow:  0px 4px 26.6px 0px rgba(0, 0, 0, 0.45);
+   }
+
+.rectangle-9 {
+   background: #606c38;
+   border-radius: 5px;
+   width: 183px;
+    height: 70px;
+   
+           position: absolute;
+    left: 425px;
+   top: 425px;
+   
+       box-shadow:  0px 4px 26.6px 0px rgba(0, 0, 0, 0.45);
+   }
+
+.rectangle-10 {
+   background: #606c38;
+   border-radius: 5px;
+   width: 183px;
+    height: 70px;
+   
+           position: absolute;
+    left: 730px;
+   top: 425px;
+   
+       box-shadow:  0px 4px 26.6px 0px rgba(0, 0, 0, 0.45);
+   }
+
+.rectangle-5 {
+   background: #606c38;
+   width: 1440px;
+    height: 146px;
+   
+           position: absolute;
+    left: 0px;
+   top: -2px;
+   
+       }
+
+.portal-acad-mico {
+   color: #fefae0;
+   text-align: left;
+   font: 400 25px 'Montserrat-Regular', sans-serif;
+   
+           position: absolute;
+    left: calc(50% - 498px);
+   top: 44px;
+   
+       width: 183px;
+    height: 55px;
+   }
+
+.sobre {
+   color: #fefae0;
+   text-align: left;
+   font: 400 25px 'Montserrat-Regular', sans-serif;
+   
+           position: absolute;
+    left: calc(50% - -421px);
+   top: 68px;
+   
+       width: 77px;
+    height: 25px;
+   }
+
+.contato {
+   color: #fefae0;
+   text-align: left;
+   font: 400 25px 'Montserrat-Regular', sans-serif;
+   
+           position: absolute;
+    left: calc(50% - -201px);
+   top: 68px;
+   
+       width: 101px;
+    height: 25px;
+   }
+
+.cadastrar-disciplinas {
+   color: #bc6c25;
+   text-align: left;
+   font: 600 20px 'Montserrat-SemiBold', sans-serif;
+   
+           position: absolute;
+    left: 120px;
+   top: 247px;
+   
+       width: 285px;
+    height: 20px;
+   }
+
+.visualizar-disciplinas {
+   color: #bc6c25;
+   text-align: left;
+   font: 600 20px 'Montserrat-SemiBold', sans-serif;
+   
+           position: absolute;
+    left: 120px;
+   top: 349px;
+   
+       width: 285px;
+    height: 20px;
+   }
+
+.grade-de-aulas {
+   color: #bc6c25;
+   text-align: left;
+   font: 600 20px 'Montserrat-SemiBold', sans-serif;
+   
+           position: absolute;
+    left: 120px;
+   top: 575px;
+   
+       width: 203px;
+    height: 20px;
+   }
+
+.group-1 {
+   
+           position: absolute;
+    inset: 0;
+   
+       }
+
+.rectangle-6 {
+   background: #606c38;
+   border-radius: 5px;
+   width: 82px;
+    height: 50px;
+   
+           position: absolute;
+    left: 425px;
+   top: 232px;
+   
+       }
+
+.adicionar-disciplina {
+   color: #fefae0;
+   text-align: left;
+   font: 600 45px 'Montserrat-SemiBold', sans-serif;
+   
+           position: absolute;
+    left: 454px;
+   top: 230px;
+   
+       width: 28px;
+    height: 42px;
+   }
